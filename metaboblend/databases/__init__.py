@@ -18,12 +18,3 @@
 # You should have received a copy of the GNU General Public License
 # along with MetaboBlend.  If not, see <https://www.gnu.org/licenses/>.
 #
-
-
-import unittest
-
-
-def suite():
-    test_loader = unittest.TestLoader()
-    test_suite = test_loader.discover('.', pattern='test_*.py')
-    return test_suite

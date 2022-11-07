@@ -19,11 +19,7 @@
 # along with MetaboBlend.  If not, see <https://www.gnu.org/licenses/>.
 #
 
-
-import unittest
-
-
-def suite():
-    test_loader = unittest.TestLoader()
-    test_suite = test_loader.discover('.', pattern='test_*.py')
-    return test_suite
+__authors__ = ['Ralf Weber (r.j.weber@bham.ac.uk)', 'Jack Gisby (jackgisby@gmail.com)']
+__credits__ = ['Ralf Weber (r.j.weber@bham.ac.uk)', 'Jack Gisby (jackgisby@gmail.com)']
+__version__ = '0.1.0'
+__license__ = 'GPLv3'

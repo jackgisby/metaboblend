@@ -63,12 +63,15 @@ instance/
 
 # Sphinx documentation
 docs/_build/
+docs.sh
 
 # PyBuilder
 target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+notebooks/notebook_data
+notebooks/notebook_data/*
 
 # pyenv
 .python-version
@@ -101,9 +104,8 @@ ENV/
 
 *~
 
-# DB Files
-*.pkl
-*.sqlite
-
-# ignore changes to scripts for testing
-scripts/*
+# ignore test files
+*/libgcc_s_dw2-1.dll
+*/libstdc++-6.dll
+tests/tmp*
+tests/**/tmp*
