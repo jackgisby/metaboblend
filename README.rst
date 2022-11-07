@@ -9,9 +9,9 @@ Python package for *de novo* structural elucidation of small molecules in mass s
 
 ..
     - **Documentation:** https://metaboblend.readthedocs.io/en/latest
-    - **Source:** https://github.com/jackgisby/metaboblend
+    - **Source:** https://github.com/computational-metabolomics/metaboblend
     
-- **Bug reports:** https://github.com/jackgisby/metaboblend/issues
+- **Bug reports:** https://github.com/computational-metabolomics/metaboblend/issues
 
 ..
     Installation
@@ -29,8 +29,8 @@ Command line
 
 Bugs
 ----
-Please report any bugs that you find `here <https://github.com/jackgisby/metaboblend/issues>`_.
-Or fork the repository on `GitHub <https://github.com/jackgisby/metaboblend/>`_
+Please report any bugs that you find `here <https://github.com/computational-metabolomics/metaboblend/issues>`_.
+Or fork the repository on `GitHub <https://github.com/computational-metabolomics/metaboblend/>`_
 and create a pull request (PR). We welcome all contributions, and we
 will help you to make the PR if you are new to `git`.
 
@@ -42,7 +42,7 @@ Developers & Contributors
 
 Licenses
 --------
-MetaboBlend is licensed under the GNU General Public License v3.0 (see `LICENSE file <https://github.com/jackgisby/metaboblend/blob/master/LICENSE>`_ for licensing information). Copyright © 2019 - 2020 Jack Gisby, Ralf Weber
+MetaboBlend is licensed under the GNU General Public License v3.0 (see `LICENSE file <https://github.com/computational-metabolomics/metaboblend/blob/master/LICENSE>`_ for licensing information). Copyright © 2019 - 2020 Jack Gisby, Ralf Weber
 
 
 .. |Build Status| image:: https://github.com/jackgisby/metaboblend/workflows/metaboblend/badge.svg
