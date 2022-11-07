@@ -14,10 +14,10 @@ Python package for *de novo* structural elucidation of small molecules in mass s
 - **Bug reports:** https://github.com/computational-metabolomics/metaboblend/issues
 
 ..
-Installation
-    ------------
-    See the `Installation page <https://metaboblend.readthedocs.io/en/latest/introduction.html#installation>`__ of
-    the `online documentation <https://computational-metabolomics.github.io/metaboblend/>`__.
+    Installation
+        ------------
+        See the `Installation page <https://metaboblend.readthedocs.io/en/latest/introduction.html#installation>`__ of
+        the `online documentation <https://computational-metabolomics.github.io/metaboblend/>`__.
 
 
 Command line
